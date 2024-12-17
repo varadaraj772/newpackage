@@ -1,0 +1,25 @@
+{
+  "name": "newpackage",
+  "version": "1.0.0",
+  "description": "New Npm Package",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "npm run test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/varadaraj772/newpackage.git"
+  },
+  "keywords": [
+    "new",
+    "package",
+    "npm"
+  ],
+  "author": "varadaraj",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/varadaraj772/newpackage/issues"
+  },
+  "homepage": "https://github.com/varadaraj772/newpackage#readme"
+}
